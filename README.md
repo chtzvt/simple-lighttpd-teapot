@@ -4,7 +4,6 @@
 This is a very simple implementation of RFC2324 for [Lighttpd](https://www.lighttpd.net/), making use of mod_magnet. 
 
 ##Setup
----
 
 Setup is simple.
 
@@ -16,6 +15,8 @@ After this, paste the contents of teapot.conf into your lighttpd configuration f
 HOST or URL directive accordingly.
 
 ##Customization
+
+[Default Page](https://cloud.githubusercontent.com/assets/7227500/14096061/c9e681f4-f533-11e5-8ae8-86f88c0a7626.png)
 
 The file index.html can be customized however you see fit, it's an HTML file just like any other. The default page included in this page is admittedly rather bland looking (but pull requests are welcome! :) )
 
